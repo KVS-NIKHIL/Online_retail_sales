@@ -40,6 +40,7 @@ This project focuses on analyzing online retail transaction data to extract acti
 - Certain products dominate the sales charts.
 - Seasonal and monthly trends affect sales volume.
 
+##  How to run
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/online-retail-sales-analysis.git
